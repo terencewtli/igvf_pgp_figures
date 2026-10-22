@@ -8,7 +8,8 @@ This repository contains a subset of the code used to analyze data and generate 
 >
 > <sup>\*</sup> Equal contribution &nbsp;·&nbsp; <sup>†</sup> Corresponding authors
 >
-> <!-- TODO: add paper link --> *Link forthcoming.*
+
+[https://www.biorxiv.org/content/10.64898/2026.10.15.757424v1](https://www.biorxiv.org/content/10.64898/2026.10.15.757424v1)
 
 ## Data
 
